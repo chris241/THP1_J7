@@ -1,0 +1,7 @@
+source 'http://ruby.org'
+gem 'bundler'
+gem 'rubocop'
+gem 'rspec'
+gem 'pry'
+gem 'twitter'
+gem 'dotenv'
